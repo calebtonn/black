@@ -24,3 +24,7 @@ src/_black_version.py
 .hypothesis/
 venv/
 .ipynb_checkpoints/
+
+# Secureli-generated files (do not modify):
+.secureli
+# End Secureli-generated files
